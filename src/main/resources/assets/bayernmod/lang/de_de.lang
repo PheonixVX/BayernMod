@@ -1,0 +1,92 @@
+itemGroup.bayernmod=Bayern Mod
+
+//ITEMS
+item.beer.name=Bier
+item.wurstdarm.name=Wurstdarm
+item.weisswurst.name=Weisswurst
+item.weisswurstroh.name=Rohe Weisswurst
+item.brezenteig.name=Brezenteig
+item.breze.name=Breze
+item.brezemitsalz.name=Gesalzene Breze
+item.versalzenebrezemitsalz.name=Versalzene Breze
+item.butterbreze.name=Butterbreze
+item.butterbrezemitsalz.name=Butterbreze mit Salz
+item.currywurst.name= Currywurst
+item.currywurstmitpommes.name=Currywurst mit Pommes
+item.pommes.name=Pommes
+item.pommesroh.name=Rohe Pommes
+item.pommesmitsalz.name=Gesalzene Pommes
+item.versalzenepommesmitsalz.name= Versalzene Pommes
+item.salz.name=Salz
+item.semmel.name=Semmel
+item.semmelteig.name=Semmelteig
+item.wurstroh.name=Rohe Wurst
+item.wurstgekocht.name=Gekochte Wurst
+item.wurstgebraten.name=Gebratene Wurst
+item.semmelknodelteig.name=Semmelknödelteig
+item.semmelknodel.name=Semmelknödel
+item.leberkas.name=Leberkäse
+item.leberkasroh.name=Roher Leberkäse
+item.braten.name=Braten
+item.bratenroh.name=Roher Braten
+item.schweinebraten.name=Schweinebraten
+item.mehl.name=Mehl
+item.hackbratenroh.name=Roher Hackbraten
+item.hackbraten.name=Hackbraten
+item.schweinehackfleisch.name=Schweine Hackfleisch
+item.hahnchenhackfleisch.name=Hähnchen Hackfleisch
+item.rinderhackfleisch.name=Rinder Hackfleisch
+item.schweinepatty.name=Schweine Frikadelle
+item.hahnchenpatty.name=Hähnchen Frikadelle
+item.rinderpatty.name=Rinder Frikadelle
+item.schweinepattyroh.name=Rohe Schweinefrikadelle
+item.hahnchenpattyroh.name=Rohe Hähnchenfrikadelle 
+item.rinderpattyroh.name=Rohe Rinderfrikadelle
+item.schweineburger.name=Schweineburger
+item.hahnchenburger.name=Chickenburger
+item.rinderburger.name=Rinderburger
+item.salat.name=Salat
+item.tomate.name=Tomate
+item.kartoffelsalat.name=Kartoffelsalat
+item.zwiebel.name=Zwiebel
+item.zwiebelgeschnitten.name=Geschnittene Zwiebel
+
+//TOOLS
+item.teigroller.name=Teigroller
+item.pfanne.name=Pfanne
+item.messer.name=Messer
+
+//WEAPON
+item.fackel.name=Fackel
+item.mistgabel.name=Mistgabel
+item.kochloffel.name=Kochlöffel
+item.sense.name=Sense
+
+//RÜSTUNG
+item.filzhut.name=Filzhut
+item.hemd.name=Hemd
+item.lederhose.name=Lederhose
+item.schuh.name=Schuhe
+
+
+//Blocks
+tile.salz_block.name=Salzblock
+tile.salz_ore.name=Salzerz
+
+tile.fleischwolf.name=Fleischwolf
+tile.braukessel.name=Braukessel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,91 @@
+itemGroup.bayernmod=Bavarian Mod
+
+//ITEMS
+item.beer.name=Beer
+item.wurstdarm.name=Sausage Casing
+item.weisswurst.name=Veal Sausage
+item.weisswurstroh.name=Uncooked Veal Sausage
+item.brezenteig.name=Pretzel Dough
+item.breze.name=Pretzel
+item.brezemitsalz.name=Pretzel with Salt
+item.versalzenebrezemitsalz.name=Oversalted Pretzel
+item.butterbreze.name=Pretzel with Butter
+item.butterbrezemitsalz.name=Salted Pretzel with Butter
+item.currywurst.name= Currywurst
+item.currywurstmitpommes.name=Currywurst with Fries
+item.pommes.name=Fries
+item.pommesroh.name=Uncooked Fries
+item.pommesmitsalz.name=Salted Fries
+item.versalzenepommesmitsalz.name=Oversalted Fries
+item.salz.name=Salt
+item.semmel.name=Roll
+item.semmelteig.name=Roll Dough
+item.wurstroh.name=Uncooked Sausage
+item.wurstgekocht.name=Cooked Sausage
+item.wurstgebraten.name=Fried Sausage
+item.semmelknodelteig.name=Bread Dumpling Dough
+item.semmelknodel.name=Bread Dumpling
+item.leberkas.name=Leberkäse
+item.leberkasroh.name=Uncooked Leberkäse
+item.braten.name=Roast Pork
+item.bratenroh.name=Uncooked Roast Pork
+item.schweinebraten.name=Roast Pork with Vegetables
+item.mehl.name=Flour
+item.hackbratenroh.name=Uncooked Meat Loaf
+item.hackbraten.name=Meat Loaf
+item.schweinehackfleisch.name=Pork Mince
+item.hahnchenhackfleisch.name=Chicken Mince
+item.rinderhackfleisch.name=Beef Mince
+item.schweinepatty.name=Pork Patty
+item.hahnchenpatty.name=Chicken Patty
+item.rinderpatty.name=Beef Patty
+item.schweinepattyroh.name=Uncooked Pork Patty
+item.hahnchenpattyroh.name=Uncooked Chicken Patty
+item.rinderpattyroh.name=Uncooked Beef Patty
+item.schweineburger.name=Pork Burger
+item.hahnchenburger.name=Chicken Burger
+item.rinderburger.name=Beef Burger
+item.salat.name=Salad
+item.tomate.name=Tomato
+item.kartoffelsalat.name=Potatosalad
+item.zwiebel.name=Onions
+item.zwiebelgeschnitten.name=Cutted Onions
+
+//TOOLS
+item.teigroller.name=Rolling Pin
+item.pfanne.name=Frying Pan
+item.messer.name=Knife
+
+//WEAPON
+item.fackel.name=Torch
+item.mistgabel.name=Pitch Fork
+item.kochloffel.name=Wooden Spoon
+item.sense.name=Scythe
+
+//RÜSTUNG
+item.filzhut.name=Trillby
+item.hemd.name=Shirt
+item.lederhose.name=Leather Pants
+item.schuh.name=Shoes
+
+
+//Blocks
+tile.salz_block.name=Block of Salt
+tile.salz_ore.name=Salt Ore
+
+tile.fleischwolf.name=Meat Grinder
+tile.braukessel.name=Brewing Kettle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
