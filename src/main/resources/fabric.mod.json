@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "bayernmod",
+  "version": "${version}",
+  "name": "BayernMod",
+  "description": "Adding many Bavarian things like food and armor/clothes to Minecraft",
+  "authors": ["Hawkk97", "PheonixVX"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/bayernmod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "io.github.pheonixvx.bayernmod.client.BayernModClient"
+    ],
+    "main": [
+      "io.github.pheonixvx.bayernmod.BayernMod"
+    ]
+  },
+  "mixins": [
+    "BayernMod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17"
+  }
+}
