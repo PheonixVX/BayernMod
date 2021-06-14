@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "bayernmod:salz_ore" }
+        "": { "model": "bayernmod:block/salz_ore" }
     }
 }

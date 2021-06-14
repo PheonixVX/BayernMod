@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "bayernmod:fleischwolf" }
+        "": { "model": "bayernmod:block/fleischwolf" }
     }
 }
